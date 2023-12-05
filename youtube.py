@@ -1,14 +1,14 @@
-import streamlit as st
-from streamlit_lottie import st_lottie
-from streamlit_option_menu import option_menu
-from PIL import Image
-from io import BytesIO
-import time
-import requests
-from config import*
-from fetch_data import *
-from Migrate_to_SQL import*
-from Questions import*
+# import streamlit as st
+# from streamlit_lottie import st_lottie
+# from streamlit_option_menu import option_menu
+# from PIL import Image
+# from io import BytesIO
+# import time
+# import requests
+# from config import*
+# from fetch_data import *
+# from Migrate_to_SQL import*
+# from Questions import*
 
 #page congiguration
 st.set_page_config(page_title= "Youtube Analysis",
